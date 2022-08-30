@@ -13,8 +13,6 @@ __URL Endpoints:__
 
 ## Follow the steps to Run App
 
-    go mod init github.com/AIRONAX-Developer/go-gin-rest-api
-    
     go mod tidy
     
     go mod vendor
