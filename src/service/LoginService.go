@@ -12,7 +12,7 @@ type LoginInformationStruct struct {
 func StaticLoginService() LoginService {
 
 	return &LoginInformationStruct{
-		email:    "info@chinmayvivek.com",
+		email:    "info@aironax.com",
 		password: "test",
 	}
 }

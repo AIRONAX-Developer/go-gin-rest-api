@@ -8,7 +8,7 @@ __URL Endpoints:__
 
 | Endpoint  | Method |
 | ------------- | ------------- |
-| ``/login?email=info@chinmayvivek.com&password=test``  | __POST__  |
+| ``/login?email=info@aironax.com&password=test``  | __POST__  |
 | ``/emi``  | __POST__ |
 
 ## Follow the steps to Run App
